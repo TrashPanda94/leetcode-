@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d97abf77-e5df-4fdb-90d2-ba1c49165e2a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mMBjBhX8xHcL7RT46M4rO54PF5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LongestSubstring" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Test.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d97abf77-e5df-4fdb-90d2-ba1c49165e2a" name="Default Changelist" comment="" />
+      <created>1609293713450</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609293713450</updated>
+      <workItem from="1609293714496" duration="4975000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="102" width="1720" height="880" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1609298071601">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="100" y="102" width="1720" height="880" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1609298071601" />
+    <state x="712" y="344" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609295733044">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="712" y="344" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1609295733044" />
+    <state width="1860" height="292" key="GridCell.Tab.0.bottom" timestamp="1609298109187">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1860" height="292" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1609298109187" />
+    <state width="1860" height="292" key="GridCell.Tab.0.center" timestamp="1609298109187">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1860" height="292" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1609298109187" />
+    <state width="1860" height="292" key="GridCell.Tab.0.left" timestamp="1609298109187">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1860" height="292" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1609298109187" />
+    <state width="1860" height="292" key="GridCell.Tab.0.right" timestamp="1609298109187">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1860" height="292" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1609298109187" />
+    <state width="1860" height="360" key="GridCell.Tab.1.bottom" timestamp="1609298063370">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1860" height="360" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1609298063370" />
+    <state width="1860" height="360" key="GridCell.Tab.1.center" timestamp="1609298063370">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1860" height="360" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1609298063370" />
+    <state width="1860" height="360" key="GridCell.Tab.1.left" timestamp="1609298063370">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1860" height="360" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1609298063370" />
+    <state width="1860" height="360" key="GridCell.Tab.1.right" timestamp="1609298063370">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1860" height="360" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1609298063370" />
+    <state x="664" y="434" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1609295869402">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="664" y="434" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1080@0.0.1920.1080" timestamp="1609295869402" />
+  </component>
+</project>
